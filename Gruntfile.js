@@ -141,7 +141,7 @@ module.exports = function (grunt) {
                         ' * inlineresources (MIT License) */\n'
                 },
                 files: {
-                    'dist/rasterizeHTML.allinone.js': ['build/rasterizeHTML.allinone.js']
+                    '../../rasterizeHTML.allinone.js': ['build/rasterizeHTML.allinone.js']
                 }
             }
         },
